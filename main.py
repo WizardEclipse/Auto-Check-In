@@ -27,7 +27,7 @@ with open("STATUS.txt", "r") as stat:
                 stat.write(f"BACK HOME at {ti}")
             SendMessageFunction.initialize()
 
-            SendMessageFunction.SendMessage(f"{RECIPIENT}", f"Back Home at {ti}")
+            SendMessageFunction.SendMessage(RECIPIENT, f"Back Home at {ti}")
 
             SendMessageFunction.exit()
             exit(0)
@@ -49,7 +49,7 @@ for i in range(0, 20):
                 stat.write(f"LEFT HOME at {ti}")
             SendMessageFunction.initialize()
 
-            SendMessageFunction.SendMessage(f"{RECIPIENT}", f"Left Home at {ti}")
+            SendMessageFunction.SendMessage(RECIPIENT, f"Left Home at {ti}")
 
             SendMessageFunction.exit()
             exit(0)
