@@ -56,6 +56,7 @@ Setup
 Requirements
 - Made and tested for Windows OS. (Mac and Linux OS Support coming soon)
 - [Selenium Webdriver](https://www.selenium.dev/)
+- `pip install selenium`
 
 Setting up
 - Install Manually by Downloading source code
