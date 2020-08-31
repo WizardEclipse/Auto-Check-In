@@ -1,0 +1,1 @@
+python "C:\Users\ishaa\Projects\WhatsApp_Automation\main.py"

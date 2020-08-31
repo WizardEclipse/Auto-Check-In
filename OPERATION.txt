@@ -1,0 +1,14 @@
+DEVICE_NAME = 
+"Android Phone"
+DEVICE_IP_ADRESS = 
+"192.168.1.68"
+
+WHATSAPP Recipient =
+"Empty Group"
+
+####################
+ONLY EDIT VALUES WITHIN QUOTATION MARKS,
+ENSURE "Device Name" REMAINS in LINE 2,
+AND "Device ip adress" REMAINS in LINE 4,
+AND 'WhatsApp Recipient Name' REMAINS in LINE 7.
+####################
