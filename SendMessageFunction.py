@@ -20,7 +20,7 @@ def initialize():
     return
 
 def SendMessage(name, mess):
-    user = chrome.find_element_by_xpath(f"//tagname[@title='{name}']")
+    user = chrome.find_element_by_xpath('//span[@title={}]'.format(name))
     user.click()
 
     time.sleep(15)
