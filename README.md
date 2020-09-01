@@ -36,7 +36,8 @@ net_con.py
 -Code for scanning the home network for an ip adress using the OS' ipconfig command
 
 SendMessageFuntion.py   
--Code for sending a WhatsApp message, broken into the initialize, SendMessage, and exit functions. To be used one after another respectively in another python file
+-Code for sending a WhatsApp message, broken into the initialize, SendMessage, and exit functions.
+-To be used one after another respectively in another python file
 
 main.py                 
 -Integrates the net_con.py and SendMessageFuntion.py files
