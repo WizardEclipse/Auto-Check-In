@@ -1,4 +1,4 @@
-Auto "Left Home" Message Sender
+Auto Check In
 ====
 
 Licensing Information: See License.txt
@@ -8,7 +8,7 @@ Program Overview
 ---
 ### Usage:
 
-- Auto "Left Home" Message Sender records wether user is 'AT HOME', has 'LEFT HOME' and when, or is now 'BACK HOME'.
+- Auto Check in records wether user is 'AT HOME', has 'LEFT HOME' and when, or is now 'BACK HOME'.
 - The program proceeds to send a WhatsApp message to a reciever when the User leaves home and the time, and when they get back.
 
 - Network Scanning is done by pinging an ipadress 20 times every 20 minutes.
