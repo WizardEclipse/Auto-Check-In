@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ishaan Trivedi
+"""
+
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 import time

@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: Ishaan Trivedi
+"""
+
 import os
 from time import sleep, strftime, localtime
 from sys import exit
