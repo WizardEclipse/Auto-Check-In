@@ -44,7 +44,7 @@ main.py
 ```
 
 ```
-/chromedriver_win32:
+/chromedriver_win32/ :
 
 chromedriver.exe
 
