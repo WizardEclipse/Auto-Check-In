@@ -55,7 +55,7 @@ chromedriver.exe
 Setup
 ---
 Requirements
-- Made and tested for Windows OS. (Mac and Linux OS Support coming soon)
+- Made and tested for Windows OS (Mac and Linux OS Support coming soon)
 - Python 3
 - [Selenium Webdriver](https://www.selenium.dev/)
 - `pip install selenium`
